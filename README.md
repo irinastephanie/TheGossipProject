@@ -1,5 +1,5 @@
 # README
-(Je n'ai pas eu le temps...)
+(Je n'ai pas eu le temps...je pose juste les bases c'est tout)
 
 The Gossip Project
 2.3.1 Le pitch
